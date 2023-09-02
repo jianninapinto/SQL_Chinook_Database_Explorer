@@ -1,4 +1,5 @@
-# Code-Along 10.1 - Basic SQL Queries
+# SQL Chinook Database Explorer
+The purpose of this project is to explore the Chinook database using SQL queries. The Chinook database is a sample SQLite database that contains information about a fictional music store, including data on customers, tracks, albums, and more.
 
 In order to set up and run this project, please complete the following steps:
 
@@ -16,7 +17,7 @@ In order to set up and run this project, please complete the following steps:
 
 You should see the questions and their corresponding answers printed out to the command line.
 
-Below is a Schema Diagram that will aid you in understanding structure of the database.
+Below is a Schema Diagram that will aid you in understanding the structure of the database.
 
 ![Schema Diagram](https://www.sqlitetutorial.net/wp-content/uploads/2015/11/sqlite-sample-database-color.jpg)
 
